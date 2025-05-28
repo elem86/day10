@@ -31,7 +31,6 @@ WITH product_sales AS (
 SELECT *
 FROM product_sales
 ORDER BY total_sales DESC;
-'''
 
 ⏱ This was a quick 1-hour build — a perfect warm-up before moving into more advanced logic like ranking and de-duplication tomorrow!
 
