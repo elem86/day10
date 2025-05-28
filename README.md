@@ -19,7 +19,7 @@ Today’s focus was on improving SQL query structure and readability by using Co
 CTEs let you write more readable and maintainable SQL — especially when building layered queries. They're also useful for performance when reused multiple times in the same query.
 
 🔍 Sample CTE used:
-<pre> ```sql
+<pre>
 WITH product_sales AS (
   SELECT
     product_name,
@@ -31,7 +31,7 @@ WITH product_sales AS (
 SELECT *
 FROM product_sales
 ORDER BY total_sales DESC;
-``` </pre>
+</pre>
 ⏱ This was a quick 1-hour build — a perfect warm-up before moving into more advanced logic like ranking and de-duplication tomorrow!
 
 📂 Files on GitHub: 🔗 https://github.com/elem86/day10
