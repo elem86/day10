@@ -19,7 +19,7 @@ Today’s focus was on improving SQL query structure and readability by using Co
 CTEs let you write more readable and maintainable SQL — especially when building layered queries. They're also useful for performance when reused multiple times in the same query.
 
 🔍 Sample CTE used:
-'''
+'''sql
 WITH product_sales AS (
   SELECT
     product_name,
