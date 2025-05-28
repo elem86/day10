@@ -32,7 +32,7 @@ SELECT *
 FROM product_sales
 ORDER BY total_sales DESC;
 </pre>
-⏱ This was a quick 1-hour build — a perfect warm-up before moving into more advanced logic like ranking and de-duplication tomorrow!
+⏱ This was a quick ~1-hour build — a perfect warm-up before moving into more advanced logic like ranking and de-duplication tomorrow!
 
 📂 Files on GitHub: 🔗 https://github.com/elem86/day10
 
