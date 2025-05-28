@@ -2,7 +2,7 @@
 
 🎯 Day 10 – One Project a Day Until I Get Hired
 
-🧩 SQL Project: CTEs for Cleaner Queries
+🔍 SQL Project: CTEs for Cleaner Queries
 
 Today’s focus was on improving SQL query structure and readability by using Common Table Expressions (CTEs). These are great for breaking down complex logic into manageable steps — especially useful when dealing with grouped and aggregated data.
 
